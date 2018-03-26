@@ -1,0 +1,354 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Example">
+    <display-name lang="en">Example</display-name>
+  </channel>
+  <channel id="SporTV 2">
+    <display-name lang="pt">SporTV 2</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <programme start="20180326000000 +0100" stop="20180326235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  </programme>
+  <programme start="20180327000000 +0100" stop="20180327235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  </programme>
+  <programme start="20180328000000 +0100" stop="20180328235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  </programme>
+  <programme start="20180329000000 +0100" stop="20180329235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  </programme>
+  <programme start="20180325213000 -0300" stop="20180326000000 -0300" channel="SporTV 2">
+    <title lang="pt">NBA: Golden State Warriors x Utah Jazz - Vivo</title>
+    <category lang="pt">Esporte/Basquete</category>
+  </programme>
+  <programme start="20180326000000 -0300" stop="20180326010000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Avenida x Grêmio</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180326010000 -0300" stop="20180326020000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - América MG x Atlético MG</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180326020000 -0300" stop="20180326030000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Rússia x Brasil</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180326030000 -0300" stop="20180326040000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - França x Colômbia</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180326040000 -0300" stop="20180326050000 -0300" channel="SporTV 2">
+    <title lang="pt">Campeonato Paulista de Futebol</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180326050000 -0300" stop="20180326060000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Cruzeiro x Tupi</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180326060000 -0300" stop="20180326070000 -0300" channel="SporTV 2">
+    <title lang="pt">Campeonato Mineiro de Futebol</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180326070000 -0300" stop="20180326080000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Itália x Argentina</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180326080000 -0300" stop="20180326090000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - França x Colômbia</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180326090000 -0300" stop="20180326100000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Rússia x Brasil</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180326100000 -0300" stop="20180326110000 -0300" channel="SporTV 2">
+    <title lang="pt">Campeonato Carioca de Futebol</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180326110000 -0300" stop="20180326120000 -0300" channel="SporTV 2">
+    <title lang="pt">Giro da Rodada</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180326120000 -0300" stop="20180326130000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Avenida x Grêmio</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180326130000 -0300" stop="20180326131000 -0300" channel="SporTV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180326131000 -0300" stop="20180326141000 -0300" channel="SporTV 2">
+    <title lang="pt">Campeonato Paulista de Futebol</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180326141000 -0300" stop="20180326142000 -0300" channel="SporTV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180326142000 -0300" stop="20180326152000 -0300" channel="SporTV 2">
+    <title lang="pt">Campeonato Paulista de Futebol</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180326152000 -0300" stop="20180326153000 -0300" channel="SporTV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180326153000 -0300" stop="20180326163000 -0300" channel="SporTV 2">
+    <title lang="pt">Campeonato Carioca de Futebol</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180326163000 -0300" stop="20180326164000 -0300" channel="SporTV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180326164000 -0300" stop="20180326174000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Rússia x Brasil</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180326174000 -0300" stop="20180326175000 -0300" channel="SporTV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180326175000 -0300" stop="20180326182000 -0300" channel="SporTV 2">
+    <title lang="pt">Baú do Esporte</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180326182000 -0300" stop="20180326183000 -0300" channel="SporTV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180326183000 -0300" stop="20180326190000 -0300" channel="SporTV 2">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180326190000 -0300" stop="20180326210000 -0300" channel="SporTV 2">
+    <title lang="pt">Superliga de Vôlei Feminino - Vivo</title>
+    <category lang="pt">Esporte/Vôlei Feminino</category>
+  </programme>
+  <programme start="20180326210000 -0300" stop="20180326213000 -0300" channel="SporTV 2">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180326213000 -0300" stop="20180326233000 -0300" channel="SporTV 2">
+    <title lang="pt">Superliga de Vôlei Feminino - Vivo</title>
+    <category lang="pt">Esporte/Vôlei Feminino</category>
+  </programme>
+  <programme start="20180326233000 -0300" stop="20180326234000 -0300" channel="SporTV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180326234000 -0300" stop="20180327014000 -0300" channel="SporTV 2">
+    <title lang="pt">Fórmula 1: GP da Austrália</title>
+    <category lang="pt">Esporte/Automobilismo</category>
+  </programme>
+  <programme start="20180327014000 -0300" stop="20180327034000 -0300" channel="SporTV 2">
+    <title lang="pt">Bem, Amigos!</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180327034000 -0300" stop="20180327050000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Rússia x Brasil</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180327050000 -0300" stop="20180327060000 -0300" channel="SporTV 2">
+    <title lang="pt">Giro da Rodada</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180327060000 -0300" stop="20180327070000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - França x Colômbia</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180327070000 -0300" stop="20180327080000 -0300" channel="SporTV 2">
+    <title lang="pt">Campeonato Gaúcho de Futebol</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180327080000 -0300" stop="20180327090000 -0300" channel="SporTV 2">
+    <title lang="pt">Giro da Rodada</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180327090000 -0300" stop="20180327100000 -0300" channel="SporTV 2">
+    <title lang="pt">Campeonato Carioca de Futebol</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180327100000 -0300" stop="20180327110000 -0300" channel="SporTV 2">
+    <title lang="pt">Campeonato Paulista de Futebol</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180327110000 -0300" stop="20180327120000 -0300" channel="SporTV 2">
+    <title lang="pt">Campeonato Paulista de Futebol</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180327120000 -0300" stop="20180327130000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Rússia x Brasil</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180327130000 -0300" stop="20180327150000 -0300" channel="SporTV 2">
+    <title lang="pt">Irã x Argélia - Vivo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180327150000 -0300" stop="20180327151000 -0300" channel="SporTV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180327151000 -0300" stop="20180327161000 -0300" channel="SporTV 2">
+    <title lang="pt">Campeonato Carioca de Futebol</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180327161000 -0300" stop="20180327163000 -0300" channel="SporTV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180327163000 -0300" stop="20180327183000 -0300" channel="SporTV 2">
+    <title lang="pt">Espanha x Argentina - Vivo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180327183000 -0300" stop="20180327190000 -0300" channel="SporTV 2">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180327190000 -0300" stop="20180327210000 -0300" channel="SporTV 2">
+    <title lang="pt">Nbb: Flamengo X Vitória - Vivo</title>
+    <category lang="pt">Esporte/Basquete</category>
+  </programme>
+  <programme start="20180327210000 -0300" stop="20180327233000 -0300" channel="SporTV 2">
+    <title lang="pt">NBA: New Orleans Pelicans x Portland Trail Blazers - Vivo</title>
+    <category lang="pt">Esporte/Basquete</category>
+  </programme>
+  <programme start="20180327233000 -0300" stop="20180327234000 -0300" channel="SporTV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180327234000 -0300" stop="20180328010000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Alemanha x Brasil</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180328010000 -0300" stop="20180328020000 -0300" channel="SporTV 2">
+    <title lang="pt">Campeonato Paulista de Futebol</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180328020000 -0300" stop="20180328030000 -0300" channel="SporTV 2">
+    <title lang="pt">Campeonato Paulista de Futebol</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180328030000 -0300" stop="20180328040000 -0300" channel="SporTV 2">
+    <title lang="pt">UFC: Jacaré x Brunson</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20180328040000 -0300" stop="20180328050000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Espanha x Argentina</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180328050000 -0300" stop="20180328060000 -0300" channel="SporTV 2">
+    <title lang="pt">Campeonato Mineiro de Futebol</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180328060000 -0300" stop="20180328070000 -0300" channel="SporTV 2">
+    <title lang="pt">Campeonato Mineiro de Futebol</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180328070000 -0300" stop="20180328080000 -0300" channel="SporTV 2">
+    <title lang="pt">Campeonato Carioca de Futebol</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180328080000 -0300" stop="20180328090000 -0300" channel="SporTV 2">
+    <title lang="pt">Campeonato Paulista de Futebol</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180328090000 -0300" stop="20180328100000 -0300" channel="SporTV 2">
+    <title lang="pt">Campeonato Paulista de Futebol</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180328100000 -0300" stop="20180328110000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Rússia x França</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180328110000 -0300" stop="20180328120000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Espanha x Argentina</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180328120000 -0300" stop="20180328130000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Alemanha x Brasil</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180328130000 -0300" stop="20180328131000 -0300" channel="SporTV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180328131000 -0300" stop="20180328141000 -0300" channel="SporTV 2">
+    <title lang="pt">Masters 1000</title>
+    <category lang="pt">Esporte/Tênis</category>
+  </programme>
+  <programme start="20180328141000 -0300" stop="20180328142000 -0300" channel="SporTV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180328142000 -0300" stop="20180328152000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Rússia x França</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180328152000 -0300" stop="20180328153000 -0300" channel="SporTV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180328153000 -0300" stop="20180328163000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Espanha x Argentina</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180328163000 -0300" stop="20180328164000 -0300" channel="SporTV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180328164000 -0300" stop="20180328174000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Alemanha x Brasil</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180328174000 -0300" stop="20180328175000 -0300" channel="SporTV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180328175000 -0300" stop="20180328182000 -0300" channel="SporTV 2">
+    <title lang="pt">Baú do Esporte</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180328182000 -0300" stop="20180328183000 -0300" channel="SporTV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180328183000 -0300" stop="20180328190000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Alemanha x Brasil</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180328190000 -0300" stop="20180328193000 -0300" channel="SporTV 2">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180328193000 -0300" stop="20180328213000 -0300" channel="SporTV 2">
+    <title lang="pt">Superliga de Vôlei Masculino - Vivo</title>
+    <category lang="pt">Esporte/Vôlei Masculino</category>
+  </programme>
+  <programme start="20180328213000 -0300" stop="20180328214000 -0300" channel="SporTV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180328214000 -0300" stop="20180328224000 -0300" channel="SporTV 2">
+    <title lang="pt">UFC: Werdum x Volkov</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20180328224000 -0300" stop="20180328225000 -0300" channel="SporTV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180328225000 -0300" stop="20180328235000 -0300" channel="SporTV 2">
+    <title lang="pt">UFC: Machida x Anders</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180328235000 -0300" stop="20180329000000 -0300" channel="SporTV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+</tv>
